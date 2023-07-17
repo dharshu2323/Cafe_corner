@@ -1,0 +1,49 @@
+ .lo{
+        width:380px;
+	height:480px;
+	position:relative;
+	margin-left: 70px;
+        margin-top: 60px;
+	background:rgba(0,0,0,0.3);
+	padding:10px;
+        overflow: hidden;
+        border-radius: 30px;
+}
+.button
+{
+	width:220px;
+	margin:35px auto;
+	position:relative;
+	box-shadow: 0 0 20px 9px #ff61241f;
+	border-radius: 30px;
+        padding: 10px 24px;
+        border: 2px solid #fff;
+        background: transparent;
+        font-size: 15px;
+        color: #6F4E37;
+        margin-left: 65px;
+        font-family: cursive;
+}
+.login_signup{
+    color: #6F4E37;
+    
+}
+input#name{
+    width: 300px;
+    border-color: #6F4E37;
+    padding: 9px;
+    border-radius: 15px;
+    background-color: #b7a295;
+    box-shadow: #6F4E37 0px 3px 8px;
+    top: -40px;
+}
+input#pass{
+    width: 300px;
+    border-color: #6F4E37;
+    padding: 9px;
+    border-radius: 15px;
+    background-color: #b7a295;
+    box-shadow: #6F4E37 0px 3px 8px;
+    top: -40px;
+    }
+
